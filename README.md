@@ -23,7 +23,6 @@ I build small products, sell a few, and open source the experiments worth sharin
 
 - 💡 **[SidePulse](https://github.com/thatlev/SidePulse)** turns your coding agent's state into an LED strip. $29 for 2 LEDs is crazy, so the iPhone next to your keyboard does it instead.
 - 🎛️ **[AgentMicro](https://github.com/thatlev/AgentMicro)** makes an iPhone a Bluetooth control surface for the agents on your Mac.
-- 📊 **[Usage4Claude](https://github.com/thatlev/Usage4Claude)** is a fork that adds multiple Claude accounts, one click to warm them all up, and Kimi tracking.
 
 ## Building now
 
