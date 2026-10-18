@@ -32,3 +32,7 @@ I build small products, sell a few, and open source the experiments worth sharin
 - 📈 **Tracer** puts all my social analytics in one place.
 - ☕ **Yawner** starts Claude's 5-hour window while I sleep.
 - ☀️ **HoldOn** reminds me to look away from the screen every 20 minutes.
+
+## Contact
+
+[![Email](https://img.shields.io/badge/-lev@cohentra.ai-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:lev@cohentra.ai)
