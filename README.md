@@ -15,7 +15,6 @@ I build small products, sell a few, and open source the experiments worth sharin
 ## Selling
 
 - 🌙 **[StillOn](https://stillon.dev)** keeps a MacBook awake with the lid closed. Menu bar, no admin rights, no kernel extension. $14.99 lifetime for 3 Macs, 7-day trial.
-- 🍽️ **Orzio** takes a photo of your food in Telegram and sends back the macros and whether it broke your diet.
 - 🧾 **[ProntoMenu](https://prontomenu.online)** is QR ordering for bars and restaurants. Kitchen display, payments, allergens, fiscal compliance.
 - 🎓 **[PairPal](https://pairpal.app)** matches students with study partners. 📝 **[Revlo](https://revlo.pairpal.app)** drills them on MCQ exams.
 
